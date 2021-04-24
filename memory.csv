@@ -1,0 +1,4 @@
+System,Copy MB/s,Scale MB/s,Triad MB/s,Add MB/s
+Bare Metal,25281,17553,19153,19147
+Hyper-V VM,28668,18375,21516,21187
+VirtualBox VM,39107,28388,31648,31587

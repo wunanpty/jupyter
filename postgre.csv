@@ -1,0 +1,4 @@
+System,ScalingFactor1 Clients50 ReadWrite ms,ScalingFactor1 Clients50 ReadWrite TPS,ScalingFactor100 Clients50 ReadWrite ms,ScalingFactor100 Clients50 ReadWrite TPS,ScalingFactor1 Clients100 ReadWrite ms,ScalingFactor1 Clients100 ReadWrite TPS,ScalingFactor1 Clients1 ReadWrite ms,ScalingFactor1 Clients1 ReadWrite TPS
+Bare Metal,118.027,423.8,14.1,3548.6,232.75,430,,
+Hyper-V VM,170.24,284.67,29215.266,1.7,349.98,286.13,,
+VirtualBox VM,62.79,796,14.95,3352,137.48,728,,

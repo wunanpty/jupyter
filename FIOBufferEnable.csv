@@ -1,0 +1,4 @@
+System,Random Read MB/s,Random Read IOPS,Random Write MB/s,Random Write IOPS,Sequential Read MB/s,Sequential Read IOPS,Sequential Write MB/s,Sequential Write IOPS
+Bare Metal,34.73,8926.86,316.17,80805.5,463.83,118611,331.67,84800
+Hyper-V VM,10.86,2789.5,514.25,131640,435,111314,572.75,146583.25
+VirtualBox VM,9.82,2471,239,61233,345,88500,266,67947
